@@ -1,3 +1,9 @@
+# What is this? Read please.
+
+A course addition, search and deletion application made to comprehend the Slice structure with Redux in React. It was made using Bulma.
+
+------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
